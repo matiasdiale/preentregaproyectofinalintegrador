@@ -3,6 +3,7 @@ com.techlab.menu;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+public class MainMenu {
 
 public static void main(String[] args) {
 
@@ -39,3 +40,4 @@ Elija una opción:
           }
        }
    } 
+}
