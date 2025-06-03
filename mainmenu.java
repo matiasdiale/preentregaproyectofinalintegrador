@@ -79,7 +79,7 @@ public class MainMenu {
     }
 }
 
-// 1Clase Producto fuera del método y de la clase MainMenu
+// 👇 Acá va la clase Producto fuera del main
 class Producto {
     private String nombre;
     private double precio;
