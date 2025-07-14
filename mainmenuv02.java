@@ -327,6 +327,7 @@ public class MainMenu {
 }
 
 
+// 👇 Acá va la clase Producto fuera del main
 package preentregaproyectofinalintegrador;
 
 public class Producto {
